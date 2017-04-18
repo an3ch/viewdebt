@@ -1,0 +1,23 @@
+{
+  "name": "viewdebt",
+  "version": "1.0.0",
+  "description": "view debt from 1c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an3ch/viewdebt.git"
+  },
+  "keywords": [
+    "view",
+    "debt"
+  ],
+  "author": "Andrey Chistyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an3ch/viewdebt/issues"
+  },
+  "homepage": "https://github.com/an3ch/viewdebt#readme"
+}

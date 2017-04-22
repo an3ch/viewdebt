@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/an3ch/viewdebt/issues"
   },
-  "homepage": "https://github.com/an3ch/viewdebt#readme"
+  "homepage": "https://github.com/an3ch/viewdebt#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
 }
